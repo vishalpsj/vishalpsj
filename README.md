@@ -1,4 +1,3 @@
-![Alt Text](asset/img/header.png)
 ## Hi 👋, I'm Vishal P
 **A passionate Full Stack Developer**
 ## 🌐 Socials:
