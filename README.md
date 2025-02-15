@@ -1,4 +1,5 @@
-## Hi 👋, I'm Vishal P
+<h1 align="center">Hi 👋, I'm Vishal P</h1>
+
 **A passionate Fullstack Developer**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivishal.p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivishalp) 
